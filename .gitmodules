@@ -1,4 +1,4 @@
 [submodule "RobustToolbox"]
 	path = RobustToolbox
-	url = https://https://github.com/tenafter/RobustToolbox.git
+	url = https://github.com/tenafter/RobustToolbox.git
 	branch = master
